@@ -6,13 +6,14 @@
 
 # Ссылка на проект:
 
-- [ Проект Netflix](https://pnzdmd.github.io/mesto/ 'Я проект Netflix!')
+- [ Проект Netflix](https://spa-netflix-phi.vercel.app/ 'Я проект Netflix!')
 
 ## В проекте используется:
 
 - React;
 - Tailwind CSS;
 - Axios;
+- Firebase;
 - JavaScript;
 - HTML5;
 - Позиционирование;
@@ -20,4 +21,6 @@
 
 ## Используются функции JavaScript:
 
-- слайдер;
+- Регистрация;
+- Axios;
+- Слайдер;
